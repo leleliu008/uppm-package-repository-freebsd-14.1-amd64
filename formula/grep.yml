@@ -1,0 +1,5 @@
+summary: GNU grep, egrep and fgrep
+webpage: https://www.gnu.org/software/grep
+version: 3.12 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/grep-3.12-freebsd-14.1-amd64.release.tar.xz 
+bin-sha: 2371a6c9c298af28293fb710feeea8421a3677754454f6e417e3037579d46bfb

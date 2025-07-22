@@ -1,0 +1,5 @@
+summary: A collection of tools for glib
+webpage: https://developer.gnome.org/glib
+version: 2.84.3 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/glib-tools-2.84.3-freebsd-14.1-amd64.release.tar.xz 
+bin-sha: 7ece64ecc58233deebd5b9457aa85484d19485c5106f23e654ac075f7b0fb47a

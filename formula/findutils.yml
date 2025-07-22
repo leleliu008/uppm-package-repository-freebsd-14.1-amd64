@@ -1,0 +1,5 @@
+summary: Collection of GNU find, xargs, and locate
+webpage: https://www.gnu.org/software/findutils
+version: 4.9.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/findutils-4.9.0-freebsd-14.1-amd64.release.tar.xz 
+bin-sha: 8d9153e410dcc64513d88f01a91bdd1ff2b1f1f0a9369556f04e3801b5cf82fd

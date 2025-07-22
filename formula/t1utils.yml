@@ -1,0 +1,5 @@
+summary: A collection of command-line tools for manipulating PostScript Type 1 fonts
+webpage: https://www.lcdf.org/type/
+version: 1.42 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/t1utils-1.42-freebsd-14.1-amd64.release.tar.xz 
+bin-sha: 7d9ec9d5f9c3bebc7777bf467a6103a85fc5099a0f5aec20eafa64d3a5a3a4a4

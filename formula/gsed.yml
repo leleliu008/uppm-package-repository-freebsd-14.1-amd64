@@ -1,0 +1,5 @@
+summary: GNU implementation of the famous stream editor
+webpage: https://www.gnu.org/software/sed
+version: 4.9 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/gsed-4.9-freebsd-14.1-amd64.release.tar.xz 
+bin-sha: 833a2623d3f64bc23d2522cd53dcc83d297f9b384428c3c90839d095ace03d2f

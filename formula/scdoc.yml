@@ -1,0 +1,5 @@
+summary: A small man page generator
+webpage: https://sr.ht/~sircmpwn/scdoc/
+version: 1.11.3 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/scdoc-1.11.3-freebsd-14.1-amd64.release.tar.xz 
+bin-sha: c8ef31cd318b17b25981c8ea6ddb6cee5ff8eb25e924ef2e6ef3b21c4b0bd7bd

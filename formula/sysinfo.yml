@@ -1,0 +1,5 @@
+summary: A command-line utility to print your currently running system information
+webpage: https://github.com/leleliu008/sysinfo
+version: 2025.07.22 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/sysinfo-2025.07.22-freebsd-14.1-amd64.release.tar.xz 
+bin-sha: c5f511449519e9c5cb8545efac9ebe7d55db22cd3d9dbef53fece26b556c5db5
