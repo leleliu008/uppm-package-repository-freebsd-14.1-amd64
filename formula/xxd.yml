@@ -1,5 +1,5 @@
 summary: A command-line tool to create a hex dump of a given file or standard input
 webpage: https://www.vim.org/
-version: 9.1.0200 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/xxd-9.1.0200-freebsd-14.1-amd64.release.tar.xz 
-bin-sha: 79919238cbee7aaac5fe3b2f26f413673d0274c4a01da5599fb42dab365e01a4
+version: 9.2.0750
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2026.11.27/xxd-9.2.0750-freebsd-14.1-amd64.release.tar.xz
+bin-sha: cc51de7687ed2d0f26c9d863c6e3b2a4dc50f5722c74035491fb90f5e46f623d

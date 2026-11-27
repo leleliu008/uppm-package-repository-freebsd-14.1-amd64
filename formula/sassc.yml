@@ -1,5 +1,5 @@
 summary: A command-line tool to covert SASS to CSS
 webpage: https://github.com/sass/sassc
-version: 3.6.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/sassc-3.6.2-freebsd-14.1-amd64.release.tar.xz 
-bin-sha: 95031b5cd2b89d5690396d00feea13ca230027c671e91c6e0cd042b5ec3f5242
+version: 3.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2026.11.27/sassc-3.6.2-freebsd-14.1-amd64.release.tar.xz
+bin-sha: 2cd67c42af21caa20e8359f0185f22eb3664271689c25529cfa9639662cb14a1

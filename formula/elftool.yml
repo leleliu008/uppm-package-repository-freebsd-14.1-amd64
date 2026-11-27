@@ -1,0 +1,5 @@
+summary: A command-line tool to manipulate ELF files
+webpage: https://github.com/leleliu008/elftool
+version: 2026.11.27
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2026.11.27/elftool-2026.11.27-freebsd-14.1-amd64.release.tar.xz
+bin-sha: af2d0786602891faad540753808dffd68f42e6c84ff0fbdf5d79a2102e458791

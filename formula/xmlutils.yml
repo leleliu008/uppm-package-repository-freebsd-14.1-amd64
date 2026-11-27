@@ -1,5 +1,5 @@
 summary: A collections of command-line utilities provided by libxml2
-webpage: http://xmlsoft.org
-version: 2.13.5 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2025.07.22/xmlutils-2.13.5-freebsd-14.1-amd64.release.tar.xz 
-bin-sha: aa27d0e37558361e196d33a8ce9c216421abb8f210cd4a2a3913b7bcc51ae594
+webpage: https://gitlab.gnome.org/GNOME/libxml2
+version: 2.15.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64/releases/download/2026.11.27/xmlutils-2.15.3-freebsd-14.1-amd64.release.tar.xz
+bin-sha: 490aead6e5ae34066b3cb5f77d998aa5be3ca3810f3aa552c2640f0b43a68fa0
